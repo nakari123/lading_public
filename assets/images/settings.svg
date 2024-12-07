@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="sdserupigw-Icons" viewBox="0 0 512 512">
+  <defs>
+    <style>.sdserupigw-cls-1{fill:none;stroke:#242a35;stroke-linecap:round;stroke-linejoin:round;stroke-width:14px;}</style>
+  </defs>
+  <path class="sdserupigw-cls-1" d="M304.789,125.084c0-26.63-21.588-48.218-48.218-48.218s-48.218,21.588-48.218,48.218H103.934v90.391c26.63,0,48.218,21.588,48.218,48.218s-21.588,48.218-48.218,48.218v109.798h104.418c0-26.63,21.588-48.218,48.218-48.218s48.218,21.588,48.218,48.218h104.418v-109.798c26.63,0,48.218-21.588,48.218-48.218s-21.588-48.218-48.218-48.218V125.084h-104.418Z"></path>
+  <g>
+    <g>
+      <polyline class="sdserupigw-cls-1" points="283.974 219.003 253.666 188.695 283.974 158.386"></polyline>
+      <polyline class="sdserupigw-cls-1" points="253.666 188.695 334.216 188.695 334.216 269.245"></polyline>
+    </g>
+    <g>
+      <polyline class="sdserupigw-cls-1" points="253.666 281.584 283.974 311.893 253.666 342.201"></polyline>
+      <polyline class="sdserupigw-cls-1" points="283.974 311.893 203.424 311.893 203.424 231.342"></polyline>
+    </g>
+  </g>
+</svg>

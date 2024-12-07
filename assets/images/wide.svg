@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="hpmmnlbiil-Icons" viewBox="0 0 512 512">
+  <defs>
+    <style>.hpmmnlbiil-cls-1{stroke-dasharray:0 0 15 29;}.hpmmnlbiil-cls-1,.hpmmnlbiil-cls-2{fill:none;stroke:#242a35;stroke-linecap:round;stroke-linejoin:round;stroke-width:14px;}</style>
+  </defs>
+  <g>
+    <polyline class="hpmmnlbiil-cls-2" points="380.706 234.044 402.662 256 380.706 277.956"></polyline>
+    <polyline class="hpmmnlbiil-cls-2" points="411.522 234.044 433.477 256 411.522 277.956"></polyline>
+  </g>
+  <g>
+    <polyline class="hpmmnlbiil-cls-2" points="148.043 277.956 126.088 256 148.043 234.044"></polyline>
+    <polyline class="hpmmnlbiil-cls-2" points="117.228 277.956 95.272 256 117.228 234.044"></polyline>
+  </g>
+  <polyline class="hpmmnlbiil-cls-2" points="165.643 350.149 66.381 350.149 66.381 159.049 165.643 159.049"></polyline>
+  <polyline class="hpmmnlbiil-cls-2" points="359.961 159.049 459.223 159.049 459.223 350.149 359.961 350.149"></polyline>
+  <line class="hpmmnlbiil-cls-2" x1="187.869" y1="350.149" x2="335.961" y2="350.149"></line>
+  <g>
+    <line class="hpmmnlbiil-cls-2" x1="335.961" y1="159.049" x2="187.869" y2="159.049"></line>
+    <line class="hpmmnlbiil-cls-1" x1="187.869" y1="159.049" x2="187.869" y2="350.149"></line>
+    <line class="hpmmnlbiil-cls-1" x1="335.961" y1="159.049" x2="335.961" y2="350.149"></line>
+  </g>
+</svg>
