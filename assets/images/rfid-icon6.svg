@@ -1,9 +1,0 @@
-<svg id="a" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
-  <g id="b">
-    <polyline points="28.8 15.59 33.81 20.59 28.8 25.59" style="fill:none; stroke:#022e3f; stroke-miterlimit:10; stroke-width:1.4px;"></polyline>
-  </g>
-  <g id="c">
-    <polyline points="11.2 25.59 6.19 20.59 11.2 15.59" style="fill:none; stroke:#022e3f; stroke-miterlimit:10; stroke-width:1.4px;"></polyline>
-  </g>
-  <line x1="6.19" y1="20.59" x2="33.06" y2="20.59" style="fill:none; stroke:#022e3f; stroke-miterlimit:10; stroke-width:1.4px;"></line>
-</svg>
